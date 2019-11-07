@@ -1,5 +1,7 @@
 # 6th Ethereum Workshop (RustFest edition)
 
+Slides https://github.com/adria0/slides/blob/master/ethereumdevbcn-workshop-rustfested.pdf
+
 **THIS LIBRARY IS ONLY FOR EDUCATIONAL PURPOSES, DO NOT USE IN PRODUCTION**
 
 ## KATA1
